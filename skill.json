@@ -1,0 +1,15 @@
+{
+  "name": "genpark-cascading-router-cost-quality-optimizer-skill",
+  "version": "1.0.0",
+  "description": "Multi-tier model cascading router dynamically selecting models based on task complexity and budget.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "model-routing",
+    "cascading-router",
+    "cost-optimizer",
+    "tier-selection",
+    "llm-gateway"
+  ]
+}
